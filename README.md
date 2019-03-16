@@ -1,6 +1,5 @@
-# face-detector
-
-## Face Detector for generic purpouse searching noise as center point face.
+# Face Detector
+Face Detector for generic purpouse searching noise as center point face.
 
 ---
 importing: 
