@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/mateusfiori/Programs/miniconda2/envs/facedetection/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.formatting.provider": "black"
+}
