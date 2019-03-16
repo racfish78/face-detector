@@ -1,6 +1,6 @@
 # face-detector
 
-h2.Face Detector for generic propouse 
+##Face Detector for generic purpouse searching noise as center point face.
 
 ---
 importing: 
