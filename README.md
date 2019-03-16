@@ -1,5 +1,8 @@
 # face-detector
 
+h2.Face Detector for generic propouse 
+
+---
 importing: 
 - dlib
 - Image
